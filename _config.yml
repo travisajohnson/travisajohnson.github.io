@@ -1,14 +1,14 @@
 # Site
-title:              flprisonstats
-bio:                'Welcome to Florida Prison Stats!!!'
-description:        "A space for data and commentary about the Florida prison system."
+title:              gainsevillepunkshows
+bio:                ' '
+description:        " "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/prison.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://travisajohnson.github.io/Moon
+url:                https://travisajohnson.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +37,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              flprisonstats@gmail.com
+email:              friedchrist619@gmail.com
 twitter:            _travs
 #facebook:           username
 github-url:         travisajohnson
